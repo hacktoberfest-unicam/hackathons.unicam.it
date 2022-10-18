@@ -6,7 +6,7 @@ let events = [
                 name: "Hacktoberfest",
                 img: "/img/hacktoberfest/logo.svg",
                 img_alt: "Hacktoberfest Logo",
-                description: "",
+                description: "Hacktoberfest: a month-long celebration of open-source projects, their maintainers, and the entire community of contributors.",
                 path: "/hacktoberfest"
             }
         ]
